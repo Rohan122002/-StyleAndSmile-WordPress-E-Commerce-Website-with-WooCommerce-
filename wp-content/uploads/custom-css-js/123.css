@@ -1,0 +1,12 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+.wc-block-product-categories-list-item{
+	font-size:1rem !important;
+	text-decoration:none !important;
+}
+.widget-area .widget {
+    font-size: 1em !important;
+    font-weight: 400;
+	text-decoration:none !important;
+}</style>
+<!-- end Simple Custom CSS and JS -->

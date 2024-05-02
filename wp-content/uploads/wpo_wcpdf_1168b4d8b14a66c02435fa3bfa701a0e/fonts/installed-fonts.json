@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/OpenSans-Normal",
+        "bold": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/OpenSans-Bold",
+        "italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/OpenSans-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/Segoe-Normal",
+        "bold": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/Segoe-Bold",
+        "italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/Segoe-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/RobotoSlab-Normal",
+        "bold": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/RobotoSlab-Bold",
+        "italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/currencies",
+        "bold": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/currencies",
+        "italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/currencies",
+        "bold_italic": "C:\/xampp\/htdocs\/styleandsmile\/wp-content\/uploads\/wpo_wcpdf_1168b4d8b14a66c02435fa3bfa701a0e\/fonts\/currencies"
+    }
+}
